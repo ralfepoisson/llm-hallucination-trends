@@ -194,7 +194,7 @@ python tools/generate_graphs.py data/readme_leaderboard_history.csv
 
 ## Related Blog Post
 
-(Add link here once published)
+[Blog Post: Longitudinal Analysis of LLM Hallucination Rates](https://www.ralfepoisson.com/index.php/2026/03/30/longitudinal-analysis-of-llm-hallucination-rates/)
 
 ## Acknowledgements
 
